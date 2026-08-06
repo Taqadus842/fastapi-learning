@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "name": "Ali Khan",
+        "age": 28,
+        "gender": "Male",
+        "city": "Karachi"
+    },
+    {
+        "id": 2,
+        "name": "Sara Ahmed",
+        "age": 24,
+        "gender": "Female",
+        "city": "Lahore"
+    },
+    {
+        "id": 3,
+        "name": "Ahmed Raza",
+        "age": 35,
+        "gender": "Male",
+        "city": "Islamabad"
+    }
+]
